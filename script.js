@@ -293,3 +293,4 @@ selectEstado.addEventListener('change', (e) => {
 })
 
 window.addEventListener('load', renderTareas)
+
